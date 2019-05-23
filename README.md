@@ -11,3 +11,4 @@ Data Structures:
   4. Binary trees
   5. Heaps
   6. Hash Tables
+  7. Graphs
